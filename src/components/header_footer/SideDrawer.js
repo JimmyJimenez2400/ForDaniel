@@ -51,6 +51,11 @@ const SideDrawer = (props) => {
             Coachella Videos
           </ListItem>
 
+          <ListItem button on Click={()=> scrollToElement
+                ('Contact')}>
+                    Contact Us
+                </ListItem>
+
         </List>
       </Drawer>
       );

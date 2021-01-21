@@ -9,6 +9,7 @@ import Highlight from './components/Highlights';
 import Pricing from './components/pricing';
 import Location from './components/location';
 import Footer from './components/header_footer/Footer';
+import Contact from './components/Contact';
 
 class App extends Component {
   render(){
@@ -35,6 +36,10 @@ class App extends Component {
       <Element name="location">
       <Location/>
       </Element>
+
+      <Element name="contact">
+          <Contact/>
+        </Element>
 
       <Footer/>
       
