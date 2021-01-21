@@ -4,12 +4,19 @@
  
  The team members for this project are:
  1. Jimmy Jimenez
+ 
  2. Henry Carpio
+ 
  3.Daniel Walker
+ 
  4.Ana
+ 
  5.Flyn
+ 
  6.Udipto Chowdhury 
+ 
  7.Cesar Espinoza 
+ 
  8.Abdullah Al Mamun
 
 # Getting Started with Create React App
