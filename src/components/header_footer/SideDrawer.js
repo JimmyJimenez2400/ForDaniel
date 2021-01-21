@@ -47,6 +47,10 @@ const SideDrawer = (props) => {
             Location
           </ListItem>
 
+          <ListItem button onClick ={()=> window.location.href = "videos.html"}>
+            Coachella Videos
+          </ListItem>
+
         </List>
       </Drawer>
       );
