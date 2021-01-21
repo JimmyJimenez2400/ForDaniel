@@ -43,14 +43,14 @@ class Discount extends Component {
                     
                     <Slide right>
                         <div className="discount_description">
-                            <h3>Come to the shop and start enjoying the games we have!</h3>
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                            <h3>Come see the fantastic artists and make memories as well!</h3>
+                            <p>Purchase this 30% off to use when buying merchandise or from stalls! It will defintely help out when you're having the time of your life!</p>
                         
                             <MyButton
                                 text="Purchase tickets"
-                                bck="#ffa800"
+                                bck="#ffadad"
                                 color="#ffffff"
-                                link="http://google.com"
+                                link="https://coachella.com/passes"
                             />
                         
                         </div>
