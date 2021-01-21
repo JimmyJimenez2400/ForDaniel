@@ -48,7 +48,7 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                    81800 51st Ave, Indio, CA 92201
+                                    Empire Polo Club, 81800 51st Ave, Indio, CA 92201
                                     </div>
                                 </div>
                             </div>

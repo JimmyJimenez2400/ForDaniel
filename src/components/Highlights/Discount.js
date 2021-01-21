@@ -43,8 +43,8 @@ class Discount extends Component {
                     
                     <Slide right>
                         <div className="discount_description">
-                            <h3>Come see the fantastic artists and make memories!</h3>
-                            <p>Purchase this 30% off to use when buying merchandise or from stalls! It will defintely help out when you're having the time of your life!</p>
+                            <h3>Come see fantastic artists and make memories!</h3>
+                            <p>Purchase tickets at 30% off to use while buying merchandise or from stalls! It will defintely help out when you're having the time of your life!</p>
                         
                             <MyButton
                                 text="Purchase tickets"
