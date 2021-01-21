@@ -6,11 +6,11 @@ class Pricing extends Component {
 
     state = {
         prices:[102,131,220],
-        positions:['Lasertag','Arcade','Death'],
+        positions:['General Admission','General Admission + Shuttle','VIP'],
         desc:[
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uts',
-            'Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea',
-            'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+            'Allows entrance to the Venue and Day Parking lots all three days. GA Pass holders may visit the GA camping areas.',
+            'Allows entrance to the Venue and Day Parking lots for all three days. GA Pass holders may visit the GA Camping areas. Includes Any Line Shuttle Pass.',
+            'Allows access into the venue, day parking lots (Preferred Parking sold separately) and the venue VIP areas. May visit Car & Tent Camping areas.'
         ],
         linkto:['http://sales/b','http://sales/m','http://sales/s'],
         delay:[500,0,500]
