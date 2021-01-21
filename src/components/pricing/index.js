@@ -5,7 +5,7 @@ import Zoom from 'react-reveal/Zoom';
 class Pricing extends Component {
 
     state = {
-        prices:[102,131,220],
+        prices:[429,504,999],
         positions:['General Admission','General Admission + Shuttle','VIP'],
         desc:[
             'Allows entrance to the Venue and Day Parking lots all three days. GA Pass holders may visit the GA camping areas.',
@@ -33,7 +33,7 @@ class Pricing extends Component {
                             <MyButton
                                 text="Purchase"
                                 bck="#ffa800"
-                                color="#ffffff"
+                                color="#fffff"
                                 link={this.state.linkto[i]}
                             />
                         </div>
