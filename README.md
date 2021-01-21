@@ -1,3 +1,24 @@
+# Coachella Website
+
+ Project is about replicating coachella in our own unique way. 
+ 
+ The team members for this project are:
+ 1. Jimmy Jimenez
+ 
+ 2. Henry Carpio
+ 
+ 3.Daniel Walker
+ 
+ 4.Ana
+ 
+ 5.Flyn
+ 
+ 6.Udipto Chowdhury 
+ 
+ 7.Cesar Espinoza 
+ 
+ 8.Abdullah Al Mamun
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

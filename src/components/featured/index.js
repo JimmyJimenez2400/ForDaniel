@@ -10,7 +10,7 @@ const Featured = () => {
 
             <div className="event_name">
                 <div className="wrapper">
-                    Gaming Day!
+                    Coachella
                 </div>
             </div>
 
