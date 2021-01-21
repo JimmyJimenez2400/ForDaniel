@@ -104,7 +104,7 @@ footer .footer_copyright {
     margin: 6px;
     text-align: center;
     color: #fff;
-    font-size: 40px;
+    font-size: 43px;
     padding: 21px 70px 0px 70px;
     text-transform: uppercase;
 }
@@ -366,8 +366,4 @@ footer .footer_copyright {
     font-size: 29px;
     padding: 15px 20px;
     text-align: center;
-}
-#video {
-    display: block;
-    margin: auto;
 }
