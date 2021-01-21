@@ -1,4 +1,4 @@
-#Coachella Website
+# Coachella Website
 
  Project is about replicating coachella in our own unique way. 
  
