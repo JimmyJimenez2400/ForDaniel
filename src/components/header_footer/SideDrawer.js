@@ -51,6 +51,10 @@ const SideDrawer = (props) => {
             Coachella Videos
           </ListItem>
 
+          <ListItem button onClick ={()=> window.location.href = "advert.html"}>
+            Advertise at Coachella
+          </ListItem>
+
           <ListItem button on Click={()=> scrollToElement
                 ('Contact')}>
                     Contact Us
