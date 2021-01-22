@@ -47,6 +47,22 @@ const SideDrawer = (props) => {
             Location
           </ListItem>
 
+<<<<<<< Updated upstream
+=======
+          <ListItem button onClick ={()=> window.location.href = "videos.html"}>
+            Coachella Videos
+          </ListItem>
+
+          <ListItem button onClick ={()=> window.location.href = "advert.html"}>
+            Advertise at Coachella
+          </ListItem>
+
+          <ListItem button on Click={()=> scrollToElement
+                ('Contact')}>
+                    Contact Us
+                </ListItem>
+
+>>>>>>> Stashed changes
         </List>
       </Drawer>
       );
